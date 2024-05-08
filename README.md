@@ -51,8 +51,8 @@
 
 * Deposit: Allows the owner to deposit funds into the contract and increases the contract balance accordingly.
 * Withdraw: Enables the owner to withdraw funds from the contract while ensuring sufficient balance is available.
-* AssignCharName: Assigns a mystery prize (character name) to the user, deducting 1 ETH from their balance.
-* GetCharaName: Returns the prize (character name) the user has won.
+* AssignCharName: Assigns a mystery prize to the user, deducting 1 ETH from their balance.
+* GetCharaName: Returns the prize the user has won.
 
 # Development
 ## To customize or extend the application:
