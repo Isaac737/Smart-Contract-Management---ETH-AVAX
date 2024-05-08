@@ -35,10 +35,10 @@
 ### git clone <repository-url>
 ### cd <repository-directory>
 
-### Install dependencies:
+## Install dependencies:
 ### npm install
 
-### Run the development server:
+## Run the development server:
 ### npm start
 
 ## Once the server is running, you can access the application in your browser at http://localhost:3000.
