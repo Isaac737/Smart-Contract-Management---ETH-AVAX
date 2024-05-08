@@ -1,5 +1,5 @@
 # DanBank
-## Welcome to DanBank! This project is a decentralized application (dApp) that offers users the opportunity to interact with a smart contract on the Ethereum blockchain. DanBank provides an engaging experience for users to mint and burn Ethereum (ETH) tokens, generate mystery items, and win exciting prizes through a gacha system.
+## Welcome to DanBank! This project is a decentralized application (dApp) that offers users the opportunity to interact with a smart contract on the Ethereum blockchain. DanBank provides an engaging experience for users to mint and burn Ethereum (ETH) tokens, generate mystery items, and win exciting prizes.
 
 # Table of Contents
 * Overview
