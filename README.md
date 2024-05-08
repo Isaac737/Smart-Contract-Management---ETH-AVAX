@@ -9,9 +9,7 @@
 * Usage
 * Smart Contract
 * Development
-* Contributing
 * License
-* Contact
 
 # Overview
 ## DanBank serves as a gateway for users to interact with a blockchain-based system that offers both financial transactions and prize-winning opportunities. This application utilizes the Ethereum blockchain to provide a secure, transparent, and decentralized experience for users.
